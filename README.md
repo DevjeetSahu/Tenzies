@@ -2,6 +2,8 @@
 
 A simple Tenzies dice game built using **React** where players roll dice and hold matching values to try and win the game in as few tries as possible. The game keeps track of your **current tries**, and also records your **best score** using `localStorage`. Confetti 🎉 celebrates your win, and you’ll be notified if you set a new personal record!
 
+Site is live at [site](https://tenzies-theta-amber.vercel.app/)
+
 ---
 
 ## 🚀 Features
